@@ -94,11 +94,6 @@ Built real-time AI overlay system using:
 
 ---
 
-## 📊 GitHub Stats
-
-![Sudheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudheer980&show_icons=true&theme=radical)
-
----
 
 ## 🎯 Current Focus
 
@@ -112,6 +107,6 @@ Built real-time AI overlay system using:
 
 ## 🤝 Let's Connect
 
-- LinkedIn: (Add link)
-- Portfolio: (Add link)
+- LinkedIn: linkedin.com/in/sudheer-kumar-divvela
+- Portfolio: https://sudheerportfolio.bolt.host/
 - Email: divvelask.511@gmail.com
