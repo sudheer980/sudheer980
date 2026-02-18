@@ -85,13 +85,12 @@ Designed LangGraph-based agent orchestration system with:
 ### 🔹 SAP GUI Automation Agent
 Developed AI-driven automation tool converting SAP GUI recordings into executable scripts with validation and workflow orchestration.
 
-- 
 ### 🔹 ServiceNow AI Ticket Resolution System (RAG-Based)
 
--Developed a production-grade AI automation system to auto-analyze and resolve ITSM tickets using LLMs and semantic retrieval.
--Reduced manual ticket handling effort through intelligent categorization, root-cause analysis, and knowledge-based answer generation.
--Built hybrid search pipelines using embeddings and vector indexing for high-accuracy context retrieval.
--Integrated AI agents with enterprise workflows to improve SLA compliance and operational efficiency.
+- Developed a production-grade AI automation system to auto-analyze and resolve ITSM tickets using LLMs and semantic retrieval.
+- Reduced manual ticket handling effort through intelligent categorization, root-cause analysis, and knowledge-based answer generation.
+- Built hybrid search pipelines using embeddings and vector indexing for high-accuracy context retrieval.
+- Integrated AI agents with enterprise workflows to improve SLA compliance and operational efficiency.
 
 ---
 
